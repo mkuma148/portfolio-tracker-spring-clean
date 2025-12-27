@@ -1,0 +1,5 @@
+# ===== Java / Spring Boot =====
+/target
+*.jar
+*.war
+*.log
